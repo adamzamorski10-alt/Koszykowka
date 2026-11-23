@@ -1,8 +1,14 @@
 # Basketball Development Tracker
 
-Personal basketball development log, assessment record, training priorities and plans.
+Personal basketball development repository: data, assessments, training sessions, game performance, coaching analysis and development goals.
 
-- [Player Profile](PLAYER_PROFILE.md)
-- [Assessment Log](ASSESSMENT_LOG.md)
+## Documents
+- [Player Profile](PLAYER_PROFILE.md) — athlete overview, schedule, context and baseline profile.
+- [Assessment Log](ASSESSMENT_LOG.md) — initial and future structured tests.
+- [Training Log](TRAINING_LOG.md) — session and practice observations.
+- [Skill Metrics](SKILL_METRICS.md) — comparable skill-specific results, shooting percentages and drills across dates.
+- [Coach Notes](COACH_NOTES.md) — dated coaching analysis, hypotheses, weaknesses, decisions and review points.
+- [Development Plan](DEVELOPMENT_PLAN.md) — goals, current phase, tracking workflow and athlete reporting.
 
-Coach maintains these records as a provisional, evidence-aware athlete profile. Distinguish measured results, athlete self-reports, and coach observations. Do not infer skill level from tiny samples.
+## Tracking principles
+Distinguish test/practice/game results, athlete reports and coach observations. Record protocol and context, flag ambiguity, and avoid overinterpreting small samples. Update these documents as evidence accumulates.
