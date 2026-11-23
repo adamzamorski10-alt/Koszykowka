@@ -26,3 +26,16 @@
 - Coaching takeaway: reinforce skills rather than adding everything at once; likely next progression should focus on controlled finishing after a simulated defender, including footwork/timing and gradually introducing contact (safe, supervised/appropriate), while separately developing left-hand dribble/spin and reverse eurostep mechanics. No objective evaluation yet; informal drill results and self-report.
 - Session duration: incomplete; skipped final challenge due to time. Warm-up excluded from report.
 - Data quality: Informal drill results, limited sample, no live defender; avoid overinterpreting.
+
+## 2026-11-23 — Shooting session + 1v1 observations
+- Form shooting: 12/20 from about 1.5 m.
+- Midrange C&S: left corner 3/6; left 45 2/6; center 2/6; right 45 1/6; right corner 4/6. Total 12/30.
+- 3PT C&S, round 1: left corner 2/6; left 45 1/6; center 1/6; right 45 1/6; right corner 2/6 (7/30).
+- 3PT C&S, round 2: left corner 4/6; left 45 1/6; center 1/6; right 45 2/6; final position reported as "left 90°" 3/6, interpreted provisionally as right corner/right 90° (11/30; 18/60 overall if interpretation correct).
+- Pull-up: 6/12 left and 7/12 right (13/24 total). User rated execution as middling and worth repeating.
+- Game-speed block and free throws not completed/reported.
+- Informal 1v1 against an older, shorter, heavier/stronger opponent: midrange pull-up after in-and-out to side 2/4; jump shot near basket (jumping/floating finish around paint) 1/3; contested layup 2/4; 3PT 0/2.
+- Self-observations: wants to jump higher/finish with better arc on layups (shots sometimes hit side of backboard square/edge and rim); shooting elbow/angle not consistently raised to about 90 degrees; balance into pull-up gradually improving but still not reliable.
+- C&S observation: catch, slight adjustment, then shot rather than a fluid/quick catch-to-shot sequence. Target for future drills: foot/hand preparation before the catch and smoother transition, without forcing speed or changing mechanics.
+- Coaching takeaway: prioritize gradual shooting-mechanics refinement, catch preparation and quicker but controlled C&S, and pull-up balance. 1v1 results are contextual and a very small sample; no conclusions on skill level from percentages alone.
+- Data note: the final location of 3PT C&S round 2 was ambiguously reported as "left 90°" after the right 45° entry; assumed to be right corner for the log, pending clarification.
