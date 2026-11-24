@@ -10,5 +10,7 @@ Personal basketball development repository: data, assessments, training sessions
 - [Coach Notes](COACH_NOTES.md) — dated coaching analysis, hypotheses, weaknesses, decisions and review points.
 - [Development Plan](DEVELOPMENT_PLAN.md) — goals, current phase, tracking workflow and athlete reporting.
 
+- [Match Preparation — 2026-12-06](MATCH_PREP_2026-12-06.md) — opponent scouting, tactical priorities, day-by-day preparation and postgame review.
+
 ## Tracking principles
 Distinguish test/practice/game results, athlete reports and coach observations. Record protocol and context, flag ambiguity, and avoid overinterpreting small samples. Update these documents as evidence accumulates.
