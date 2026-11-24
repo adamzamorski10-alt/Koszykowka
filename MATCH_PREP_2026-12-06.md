@@ -47,6 +47,15 @@ Interpretation: this game shows a strong paint-scoring and possession-pressure p
 - Denesiak: 9.6 PPG, 56.4% 2PT, 0% 3PT (1.2 3PA/game).
 Caution: only five games; rates may be volatile. Jaskulski's 7.4 APG and 33 steals across five games make him a particularly important passer/ball-pressure player. Maciaszek's 5 offensive rebounds/game are a major box-out warning.
 
+
+## 2026-11-24 — User's press-handling profile (self-report)
+- Handling full-court pressure: sometimes comfortable, sometimes struggles.
+- Main difficulty: double teams / traps.
+- Ball-handling role: shared with another teammate; user is not the sole primary bring-up option.
+- Coaching implication: train the specific trap response and communication, not generic high-volume dribbling. Since responsibility is shared, rehearse clear role recognition: who receives the inbound, who is the second handler, who flashes middle, and who is the safety outlet. Confirm the team's actual press-break roles with the coach.
+- Priority cue under a trap: stop advancing into the second defender; protect the ball, keep pivot options, locate the free outlet early and pass before the trap closes. After passing, relocate to become a return option. Avoid jumping passes and speculative cross-court passes.
+- These are self-reported tendencies, not evidence of a technical inability; reassess in practice and games.
+
 ## Tactical preparation for the user's PG role
 
 ### 1. Bring the ball over half court vs full-court pressure
@@ -96,7 +105,7 @@ All court sessions are skill-focused, not conditioning tests. Adjust to club coa
 
 ### Wed 2026-11-25 — 1h individual before club (30–35 min only)
 - 5 min dynamic warm-up.
-- 10 min press-handling: partner applies controlled shadow pressure; receive, pivot/retreat to space, pass to outlet; 6–8 reps each side.
+- 12 min trap-read practice: partner gives controlled two-person pressure after the catch; identify the open outlet, pivot away from the sideline, pass before the trap closes, then relocate for a return pass. 6–8 clean reps each side. Keep the second defender's pressure controlled.
 - 10 min change-of-pace attack: 1v0/controlled 1v1, 4 reps each side, read imaginary help and choose finish or kick-out.
 - 5–8 min catch-ready shooting: 10–15 close/midrange shots, only clean balanced reps.
 - Keep intensity moderate; leave freshness for club practice. No exhaustive 3PT volume.
@@ -108,7 +117,7 @@ All court sessions are skill-focused, not conditioning tests. Adjust to club coa
 
 ### Fri 2026-11-27 — Individual 1h
 - 8 min warm-up.
-- 12 min press-break footwork and controlled partner pressure (not full-speed trapping): 8–10 clean possessions, prioritize passing out of pressure.
+- 15 min press-break + double-team reads with partner: start in shared-handler roles (alternate primary and secondary handler); 8–10 controlled possessions. Partner closes a trap only after the first dribble or near the sideline. Practice early outlet pass, middle flash recognition, and relocation after passing. No full-speed physical trapping.
 - 15 min shooting: catch-ready footwork then 3PT, 5 spots x 4 attempts (20 total); record makes and whether shot was balanced. Add 10 midrange shots if quality stays good.
 - 15 min attack-to-finish: 3 options each side (straight-line, eurostep/read, jump stop/kick-out); 3–4 reps per option. Focus on control and release angle.
 - 5 min free throws; 5 min cooldown/reflection.
