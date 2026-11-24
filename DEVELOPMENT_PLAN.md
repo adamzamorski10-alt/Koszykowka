@@ -25,3 +25,10 @@ Priority areas currently hypothesized from initial data:
 ## Athlete reporting
 For individual sessions: exercises, attempt/make numbers, effort (rough RPE if comfortable), fatigue, what felt/failed and any pain.
 For games: minutes and stats if known; describe possessions or situations rather than only final scoring; report role and opponent context.
+
+
+## Match block — DALK U17 vs Dijo Polkąty Maximus Kąty Wrocławskie (2026-12-06)
+- Primary personal aim: target approximately 15 points, while prioritizing team decisions and shot quality.
+- Match-specific skills: full-court pressure handling, scanning and outlet passing, catch-ready 3PT shooting, attacking closeouts, finishing reads vs help, controlled contact balance, defensive rebounding/box-outs and transition defense.
+- Detailed scouting, daily schedule (Nov 24–Dec 6), tactical cues and postgame data checklist: [MATCH_PREP_2026-12-06.md](MATCH_PREP_2026-12-06.md).
+- Workload principle: club/SKS sessions count as training load. Keep pre-club individual work short, avoid high-fatigue sessions in final 48 hours, and prioritize recovery.
