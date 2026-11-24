@@ -33,3 +33,15 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - All practice percentages are samples with different protocols and fatigue; do not compare directly as if conditions were identical.
 - 1v1 and SKS observations are self-reported and context dependent.
 - No video-based analysis yet.
+
+
+## 2026-11-24 — Scouting review: Dijo Polkąty Maximus Kąty Wrocławskie (2026-12-06)
+- Athlete supplied five-game season averages, latest box score (81–31 win), and qualitative observations. Full scouting and preparation plan is in MATCH_PREP_2026-12-06.md.
+- Latest game: 37/62 2PT (59.7%), 1/6 3PT (16.7%), 4/14 FT (28.6%), 50 rebounds (19 offensive), 19 assists, 17 steals, 13 turnovers. Opponent committed 24 turnovers and collected 24 rebounds.
+- Strong evidence in this sample of paint efficiency, offensive rebounding and disruptive ball pressure. Their low 3PT percentage comes from only six attempts; it is not evidence that they cannot shoot.
+- Main scoring outputs: Maciaszek 19 (9/14 2PT, 7 REB, 3 STL); Kalinowski 18 (9/11 2PT); Denesiak 16 (7/11 2PT); Jaskulski 7 and 5 AST/4 STL; Majka 5 AST/5 STL.
+- Season sample (5 games) flags Kalinowski (19.8 PPG, 74.1% 2PT), Majka (17 PPG, 72.5% 2PT), Maciaszek (14.8 PPG, 7.2 RPG incl. 5 ORPG), Jaskulski (11.4 PPG, 7.4 APG, 33 steals/5 games) as major matchup considerations.
+- PG priorities: press-break composure and scanning; protect ball and use release passes against traps; attack closeouts/gaps; finish with angle/touch and reads rather than seeking collisions; take open balanced 3PT shots without forcing; box out and sprint back.
+- Target around 15 points is aspirational. Do not chase a quota; high-quality decisions and team offense take priority.
+- Match preparation schedule added for Nov 24–Dec 6. Taper load before game; Wednesday individual sessions shortened due to club practice; Friday Dec 4 primer; Saturday recovery.
+- Data limitations: one box score and five-game averages; no video/play-by-play; opponent observations are athlete-supplied; do not infer individual defensive assignments or precise press-break structure.
