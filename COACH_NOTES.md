@@ -45,3 +45,12 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - Target around 15 points is aspirational. Do not chase a quota; high-quality decisions and team offense take priority.
 - Match preparation schedule added for Nov 24–Dec 6. Taper load before game; Wednesday individual sessions shortened due to club practice; Friday Dec 4 primer; Saturday recovery.
 - Data limitations: one box score and five-game averages; no video/play-by-play; opponent observations are athlete-supplied; do not infer individual defensive assignments or precise press-break structure.
+
+
+## 2026-11-24 — Press-handling profile update for Dec 6
+- User self-report: handles full-court pressure inconsistently ("sometimes"); biggest difficulty is double teams/traps; ball-bringing role is shared rather than exclusively primary.
+- Update to coaching priority: focus on recognizing and escaping traps through early scanning, pivot/ball protection, timely outlet passing, middle-release recognition, communication and relocation after passing. Avoid framing the issue as simply needing more dribbling speed.
+- Because ball-handling responsibility is shared, practice both roles: primary handler receiving pressure and secondary handler creating a release angle / receiving the outlet. Confirm exact press-break roles and terminology with team coach; team system takes precedence.
+- Preparation plan adjusted: Nov 25 controlled trap-read reps, Nov 27 longer but still controlled partner trap scenarios, then brief trap-read rehearsal on Dec 2. No exhausting full-speed press simulations during taper.
+- Key in-game rule: when two defenders commit, do not attack the gap between them. Protect the ball, pivot to see the floor, pass to the free outlet before the trap seals, then move to be a return option. No risky cross-court passes or jump passes unless clearly safe.
+- Reassess after Nov 26/Dec 3 live play: note whether turnovers come from sideline traps, dead dribble, late pass, poor spacing or missed outlet. This will guide final adjustment.
