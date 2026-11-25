@@ -55,3 +55,13 @@
 - Free throws: first set 5/10, second 6/10 (11/20 total). User noted slight foot lift and inconsistent/flat trajectory; later attempts felt more on line.
 - Session data is self-reported, small samples and variable facility conditions. Fatigue, pain and sleep were not reported.
 - Coaching takeaway: strongest evidence of right/left asymmetry in moving ball handling and finishing. Prioritize left-hand control under movement, eyes-up dribbling, acceleration after direction change, and left-hand layup technique. Shooting focus is repeatable release/arc and natural follow-through, not forcing a prescribed elbow angle. Keep 3PT range secondary until mechanics hold consistently; use a suitable court when possible.
+
+
+### 2026-11-25 — 3v3 games after individual session
+- Played additional 3v3 after the individual workout. Court was small/temporary and not the usual full-size training hall; this limits transfer to full-court spacing and long-range shooting.
+- User reports bringing the ball across half court successfully on each possession/occasion; passing felt generally good. Self-rated defense ~7/10 and shooting feel ~6.5–7/10, although no points were scored on jump shots during the games; later attempts in informal shooting felt more successful.
+- Main offensive difficulty: uncertainty about what action to take after driving at/ past a defender; needs clearer reads against the on-ball defender and help defender, plus faster acceleration after a dribble move.
+- At the rim, user estimates finishing around 50% (rough subjective estimate, not tracked). Often attacked directly into a taller (~10 cm), heavier defender, sometimes with a second defender helping/doubling; missed close finishes and recognized failure to use pump fake/step-through or other controlled counters.
+- User feels takeoff/jump height limits contested finishing and wants to improve one-foot and two-foot takeoff mechanics. No objective jump test or video available; do not assume jump height is the sole cause.
+- Coaching interpretation: promising ball advancement and passing in 3v3, but small-court format does not test full-court press-break. Prioritize post-beat reads (finish, floater/short pull-up, pass/kick-out, or reset), pace change and acceleration, protected finishes/inside-hand and high-glass options, jump-stop/two-foot balance, and legal pump-fake/step-through decisions. Build takeoff mechanics gradually with low-volume, high-quality, supervised jumps; no maximal or fatigue-based jumping, and no forcing contact against larger defenders.
+- Combined session + 3v3 workload: avoid additional hard individual work today; assess fatigue and any ankle/other pain before next session.
