@@ -68,3 +68,32 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 4. Jump mechanics: gradually develop one-foot and two-foot takeoff coordination, penultimate-step rhythm, arm swing and balanced landing. Keep jump work low-volume, fresh and supervised; no maximal repeated jumps, weighted jumps or fatigue-based plyometrics for a 16-year-old. Jump height is only one factor; timing, balance, release angle, protection and decision-making also matter.
 5. Maintain positive signs in ball advancement, passing and defense; continue assessing full-court pressure separately because 3v3 on a small temporary court is not a full-court press-break test.
 - Count the individual session plus 3v3 as one combined training load; no extra hard work today. Check recovery and pain before next session.
+
+
+## 2026-11-25 — First official DALK statistics review (2 games)
+### User-provided official box-score baseline
+- Competition: DALK Junior U17 2026/27; team UKS Szóstka Wrocław; role confirmed by user as PG.
+- Across 2 games: 57:46 total minutes (28.9 MPG), 9 points (4.5 PPG), 3/14 2PT (21.4%), 0/1 3PT, 3/7 FT (42.9%), 7 rebounds (5 DEF, 2 OFF; 3.5 RPG), 0 AST, 1 STL, 0 BLK, 9 TO (4.5 TOPG), EFF -8 total, +/- -73 total.
+- vs Turbo24 KK Oleśnica (2026-10-24): 26:16, 9 pts, 3/10 2PT, 3/7 FT, 2 REB, 0 AST, 6 TO, EFF -6, +/- -34.
+- vs Górnik Polkowice (2026-11-14): 31:30, 0 pts, 0/4 2PT, 0/1 3PT, 5 REB, 0 AST, 3 TO, EFF -2, +/- -39.
+### Clarifications from athlete
+- Confirmed primary role in these games: point guard.
+- Most turnovers were caused by physical contact with defenders.
+- Missed 2PT attempts were primarily drives/layups.
+### Coaching interpretation
+- Highest-priority game translation issue is finishing drives efficiently and maintaining ball security through physical contact. Train legal body positioning, balanced gather, ball placement on the far side, strong but controlled base, and finishing angle/touch. Do not encourage initiating dangerous collisions or relying on strength alone.
+- For drives, train a read rather than a predetermined finish: if the defender is beat and rim path is open, finish; if a rim protector/help defender arrives, use protected inside-hand/high-glass/reverse or controlled stop/floater when available; if help commits and passing lane is clear, kick out. Avoid forcing a layup into a set second defender.
+- Turnovers attributed to contact require further diagnosis. Contact may disrupt exposed dribble/gather, balance, or body position; future game reports/video should identify whether the ball was stripped, knocked loose during gather, or lost after bump/imbalance. Do not assume every contact turnover is avoidable or a pure strength deficit.
+- 0 assists in two games is a box-score fact, not proof of poor playmaking; assess potential assists, quality of reads, and team finishing separately.
+- The two-game sample is too small for stable conclusions. 21.4% 2PT and 42.9% FT are signals to investigate, not definitive ability estimates. +/- (-73) is team/context dependent and must not be treated as an individual skill score.
+### Updated priorities
+1. Drive finishing under realistic but safe pressure, with attempt type and contest level tracked.
+2. Ball protection and balance through legal contact, including secure gather and pivot/escape decisions.
+3. PG decision-making when help defense collapses: finish, pass, stop/floater or reset.
+4. Continue trap/press-break handling, especially protecting the ball and passing before contact/trap removes options.
+5. Build left-hand finishing and handle; continue shooting mechanics and selection without overreacting to small samples.
+### Follow-up evidence to collect
+- On future games, record each turnover type (strip during dribble, ball lost on gather/contact, inaccurate pass, travel/offensive foul, other) where possible.
+- For missed drives, record layup side/hand, contest level, contact, and whether a help defender was present.
+- Track potential assists as coach observation, not as official assists.
+- Reassess after additional games; do not set a statistical scoring quota.
