@@ -54,3 +54,17 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - Preparation plan adjusted: Nov 25 controlled trap-read reps, Nov 27 longer but still controlled partner trap scenarios, then brief trap-read rehearsal on Dec 2. No exhausting full-speed press simulations during taper.
 - Key in-game rule: when two defenders commit, do not attack the gap between them. Protect the ball, pivot to see the floor, pass to the free outlet before the trap seals, then move to be a return option. No risky cross-court passes or jump passes unless clearly safe.
 - Reassess after Nov 26/Dec 3 live play: note whether turnovers come from sideline traps, dead dribble, late pass, poor spacing or missed outlet. This will guide final adjustment.
+
+
+## 2026-11-25 — 3v3 observations and coaching update
+- In 3v3 after the individual session, user reports consistently advancing the ball across half court, generally good passing, defense self-rated ~7/10 and shooting feel ~6.5–7/10. No jump-shot points scored during the games; later informal shooting felt better. Small temporary court means spacing/full-court transfer is limited.
+- Key game weakness: after driving at or beating the first defender, user is unsure what to do next and does not always accelerate decisively after the dribble move.
+- Rim finishing estimated by user at ~50%, not objectively tracked. Repeatedly drove directly into a taller (~10 cm), heavier rim defender and sometimes a second helper; recognized missed opportunities to use a pump fake, step-through, change of finish, floater or kick-out.
+- User suspects limited jump height affects contested finishing and wants to improve one-foot and two-foot takeoff. No objective jump test/video; diagnose mechanics and timing before attributing misses to vertical jump.
+### Updated coaching priorities
+1. Post-drive decision-making: read first defender and help defender; choose finish, floater/short pull-up, kick-out/pass, or reset. Do not force a shot simply because the drive began.
+2. Acceleration after the move: once an advantage is created, push off decisively and protect the ball; avoid extra dribbles that allow recovery.
+3. Finishing against size: vary release point and angle, use inside hand/high glass/reverse where appropriate, control gather, jump stop and pivot; use pump fake/step-through only when defender commits and space is safe. Avoid driving blindly into two defenders.
+4. Jump mechanics: gradually develop one-foot and two-foot takeoff coordination, penultimate-step rhythm, arm swing and balanced landing. Keep jump work low-volume, fresh and supervised; no maximal repeated jumps, weighted jumps or fatigue-based plyometrics for a 16-year-old. Jump height is only one factor; timing, balance, release angle, protection and decision-making also matter.
+5. Maintain positive signs in ball advancement, passing and defense; continue assessing full-court pressure separately because 3v3 on a small temporary court is not a full-court press-break test.
+- Count the individual session plus 3v3 as one combined training load; no extra hard work today. Check recovery and pain before next session.
