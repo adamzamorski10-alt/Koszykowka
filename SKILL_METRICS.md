@@ -72,3 +72,27 @@ These are drill samples, not game conversion rates.
 - Repeat selected tests with comparable protocols; avoid overinterpreting one session or tiny samples.
 - Correct/clarify ambiguous data rather than silently treating it as verified.
 - Future: track game scoring and attempts, turnovers, assists, rebounds, defensive observations, minutes and role when user can provide them.
+
+
+## Official DALK game statistics — initial baseline (2 games; 2026-10-24 and 2026-11-14)
+Competition: DALK Junior U17 2026/27; team: UKS Szóstka Wrocław; position: PG (user-confirmed).
+
+| Date | Opponent | Minutes | PTS | 2PT | 3PT | FT | REB (DEF/OFF) | AST | STL | TO | EFF | +/- |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2026-10-24 | Turbo24 KK Oleśnica | 26:16 | 9 | 3/10 | 0/0 | 3/7 | 2 (1/1) | 0 | 0 | 6 | -6 | -34 |
+| 2026-11-14 | Górnik Polkowice | 31:30 | 0 | 0/4 | 0/1 | 0/0 | 5 (4/1) | 0 | 1 | 3 | -2 | -39 |
+| **Total / average** | **2 games** | **57:46 / 28.9 MPG** | **9 / 4.5 PPG** | **3/14 (21.4%)** | **0/1 (0%)** | **3/7 (42.9%)** | **7 (5/2) / 3.5 RPG** | **0** | **1 / 0.5 SPG** | **9 / 4.5 TOPG** | **-8** | **-73** |
+
+### Athlete's contextual clarifications
+- Primary position in these games: PG.
+- Most turnovers resulted from physical contact with defenders.
+- Missed 2PT attempts were mainly drives/layups.
+- No assist total is not enough to judge playmaking; potential assists and quality of reads were not tracked.
+
+### Interpretation and data limits
+- This is a two-game baseline, not a reliable estimate of long-term shooting or turnover ability.
+- 2PT game conversion (3/14) should prompt focused drive-finishing work and review of shot difficulty, contest, angle, gather and help defense.
+- FT (3/7) and 3PT (0/1) samples are too small for conclusions.
+- Turnover attribution is athlete-reported and broad ("contact"); future logs should separate strips, gather/contact losses, balance losses, passes, travels/offensive fouls and other causes when known.
+- +/- is strongly affected by team lineups and game context; do not interpret as an individual skill rating.
+- Keep these official game figures separate from practice drill percentages above.
