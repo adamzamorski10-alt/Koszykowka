@@ -39,3 +39,19 @@
 - C&S observation: catch, slight adjustment, then shot rather than a fluid/quick catch-to-shot sequence. Target for future drills: foot/hand preparation before the catch and smoother transition, without forcing speed or changing mechanics.
 - Coaching takeaway: prioritize gradual shooting-mechanics refinement, catch preparation and quicker but controlled C&S, and pull-up balance. 1v1 results are contextual and a very small sample; no conclusions on skill level from percentages alone.
 - Data note: the final location of 3PT C&S round 2 was ambiguously reported as "left 90°" after the right 45° entry; assumed to be right corner for the log, pending clarification.
+
+
+## 2026-11-25 — Individual session (before club practice)
+- Ball handling (self-ratings): stationary right 8/10 control, 7/10 speed; no losses. Stationary left 6/10 control, 5/10 speed; eyes not consistently forward on either hand.
+- Moving crossover: about 20 reps; right-side execution ~7.5/10, left-side execution less dynamic, ~6/10, with about two ball losses.
+- Moving between-the-legs: right ~7/10; left ~5/10 with about three ball losses.
+- Freestyle/change-of-direction dribbling: overall control ~7/10; change of direction and especially acceleration after the move ~6.5/10. Self-rated observations, not standardized tests.
+- Close shooting from about 2 m: 6/10. User identified inconsistent shooting mechanics: elbow/forearm alignment under the ball varies, arm extension and wrist follow-through are sometimes incomplete, and some releases are too flat. Do not impose a rigid 90-degree elbow; prioritize comfortable alignment, complete natural extension, relaxed wrist/finger follow-through and repeatable arc.
+- Midrange: left corner 2/4; left 45 1/4; center 1/4; right 45 2/4; right corner 4/4. Total 10/20.
+- 3PT: 3/10. User reported the smaller/less suitable hall limited the quality of long-range work; technique also deteriorated. Treat as a rough session result, not a reliable shooting estimate.
+- Layups: quick right-hand layup from right side 5/5 (technique self-rated 8/10); left-hand layup from left side 3/5 (technique ~5/10, slower/less controlled).
+- Eurostep: right-side approach 4/5, reasonably good; left-side approach pattern (drive toward middle, eurostep left, finish right hand) 3/5, quality ~6.5/10.
+- Reverse layup, right-hand finish: from left side 3/3 with reasonably good technique; from right side 2/3, technique somewhat weaker.
+- Free throws: first set 5/10, second 6/10 (11/20 total). User noted slight foot lift and inconsistent/flat trajectory; later attempts felt more on line.
+- Session data is self-reported, small samples and variable facility conditions. Fatigue, pain and sleep were not reported.
+- Coaching takeaway: strongest evidence of right/left asymmetry in moving ball handling and finishing. Prioritize left-hand control under movement, eyes-up dribbling, acceleration after direction change, and left-hand layup technique. Shooting focus is repeatable release/arc and natural follow-through, not forcing a prescribed elbow angle. Keep 3PT range secondary until mechanics hold consistently; use a suitable court when possible.
