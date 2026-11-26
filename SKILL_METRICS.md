@@ -66,13 +66,24 @@ These are drill samples, not game conversion rates.
 - 3PT: 0/2.
 - Opponent was older and described as shorter, heavier/stronger. Context and tiny sample; not a standardized test.
 
+### 2026-11-26 — SKS 2v2 and individual work
+- Opponents: approximately 204 cm and 185 cm.
+- 2v2 close finishing: 4/5 (80%) reported; two regular layups after beating the defender, one right-side 90-degree drive with angle/body-position change and glass finish, one fully contested layup. Very small sample; context-specific.
+- 2v2 3PT: 0/3; technique reported as poor/flat. Do not interpret as a stable shooting percentage.
+- Free throws after short warm-up: 7/10 (70%). One informal set only.
+- Later 3PT practice: 3/10 after a poor start; user still reported inconsistent mechanics and flat trajectory. Low-confidence practice sample, not comparable to the Nov 23 multi-spot C&S protocol.
+- Simulated close-range contact/gather and one-foot finish drill (no actual defender): about 5/7.
+- Reverse after two-foot stop, pump fake and step-through: about 2/5.
+- Right-side 90-degree drive, spin toward middle and shot: about 3/5.
+- Stationary twin-cross/handle self-rating: about 7/10; increasing confidence but not yet fluid or fully reliable. Left hand remains a focus.
+- Eurostep mechanics: user reports direction-change step is too short; prioritize controlled longer displacement, not exaggerated reach or loss of balance.
+
 ## Tracking rules
 - Whenever possible log date, drill/test protocol, location/hand, attempts, makes, percentage, intensity/conditions, fatigue, and notes.
 - Keep practice drill statistics separate from game statistics.
 - Repeat selected tests with comparable protocols; avoid overinterpreting one session or tiny samples.
 - Correct/clarify ambiguous data rather than silently treating it as verified.
 - Future: track game scoring and attempts, turnovers, assists, rebounds, defensive observations, minutes and role when user can provide them.
-
 
 ## Official DALK game statistics — initial baseline (2 games; 2026-10-24 and 2026-11-14)
 Competition: DALK Junior U17 2026/27; team: UKS Szóstka Wrocław; position: PG (user-confirmed).
