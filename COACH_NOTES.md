@@ -46,7 +46,6 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - Match preparation schedule added for Nov 24–Dec 6. Taper load before game; Wednesday individual sessions shortened due to club practice; Friday Dec 4 primer; Saturday recovery.
 - Data limitations: one box score and five-game averages; no video/play-by-play; opponent observations are athlete-supplied; do not infer individual defensive assignments or precise press-break structure.
 
-
 ## 2026-11-24 — Press-handling profile update for Dec 6
 - User self-report: handles full-court pressure inconsistently ("sometimes"); biggest difficulty is double teams/traps; ball-bringing role is shared rather than exclusively primary.
 - Update to coaching priority: focus on recognizing and escaping traps through early scanning, pivot/ball protection, timely outlet passing, middle-release recognition, communication and relocation after passing. Avoid framing the issue as simply needing more dribbling speed.
@@ -55,9 +54,8 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - Key in-game rule: when two defenders commit, do not attack the gap between them. Protect the ball, pivot to see the floor, pass to the free outlet before the trap seals, then move to be a return option. No risky cross-court passes or jump passes unless clearly safe.
 - Reassess after Nov 26/Dec 3 live play: note whether turnovers come from sideline traps, dead dribble, late pass, poor spacing or missed outlet. This will guide final adjustment.
 
-
 ## 2026-11-25 — 3v3 observations and coaching update
-- In 3v3 after the individual session, user reports consistently advancing the ball across half court, generally good passing, defense self-rated ~7/10 and shooting feel ~6.5–7/10. No jump-shot points scored during the games; later informal shooting felt better. Small temporary court means spacing/full-court transfer is limited.
+- In 3v3 after the individual session, user reports consistently advancing the ball across half court, generally good passing, defense self-rated ~7/10 and shooting feel ~6.5–7/10. No jump-shot points scored during the games; later informal shooting felt better. Small-court format means spacing/full-court transfer is limited.
 - Key game weakness: after driving at or beating the first defender, user is unsure what to do next and does not always accelerate decisively after the dribble move.
 - Rim finishing estimated by user at ~50%, not objectively tracked. Repeatedly drove directly into a taller (~10 cm), heavier rim defender and sometimes a second helper; recognized missed opportunities to use a pump fake, step-through, change of finish, floater or kick-out.
 - User suspects limited jump height affects contested finishing and wants to improve one-foot and two-foot takeoff. No objective jump test/video; diagnose mechanics and timing before attributing misses to vertical jump.
@@ -65,10 +63,9 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 1. Post-drive decision-making: read first defender and help defender; choose finish, floater/short pull-up, kick-out/pass, or reset. Do not force a shot simply because the drive began.
 2. Acceleration after the move: once an advantage is created, push off decisively and protect the ball; avoid extra dribbles that allow recovery.
 3. Finishing against size: vary release point and angle, use inside hand/high glass/reverse where appropriate, control gather, jump stop and pivot; use pump fake/step-through only when defender commits and space is safe. Avoid driving blindly into two defenders.
-4. Jump mechanics: gradually develop one-foot and two-foot takeoff coordination, penultimate-step rhythm, arm swing and balanced landing. Keep jump work low-volume, fresh and supervised; no maximal repeated jumps, weighted jumps or fatigue-based plyometrics for a 16-year-old. Jump height is only one factor; timing, balance, release angle, protection and decision-making also matter.
+4. Jump mechanics: gradually develop one-foot and two-foot takeoff coordination, penultimate-step rhythm, arm swing and balanced landing. Keep jump work low-volume, fresh and supervised; no maximal repeated jumps, weighted jumps or fatigue-based plyometrics for a 16-year-old. Jump height is only one factor; timing, balance, release, protection and decision-making also matter.
 5. Maintain positive signs in ball advancement, passing and defense; continue assessing full-court pressure separately because 3v3 on a small temporary court is not a full-court press-break test.
 - Count the individual session plus 3v3 as one combined training load; no extra hard work today. Check recovery and pain before next session.
-
 
 ## 2026-11-25 — First official DALK statistics review (2 games)
 ### User-provided official box-score baseline
@@ -77,7 +74,7 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - vs Turbo24 KK Oleśnica (2026-10-24): 26:16, 9 pts, 3/10 2PT, 3/7 FT, 2 REB, 0 AST, 6 TO, EFF -6, +/- -34.
 - vs Górnik Polkowice (2026-11-14): 31:30, 0 pts, 0/4 2PT, 0/1 3PT, 5 REB, 0 AST, 3 TO, EFF -2, +/- -39.
 ### Clarifications from athlete
-- Confirmed primary role in these games: point guard.
+- Confirmed primary role in these games: PG.
 - Most turnovers were caused by physical contact with defenders.
 - Missed 2PT attempts were primarily drives/layups.
 ### Coaching interpretation
@@ -97,3 +94,30 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - For missed drives, record layup side/hand, contest level, contact, and whether a help defender was present.
 - Track potential assists as coach observation, not as official assists.
 - Reassess after additional games; do not set a statistical scoring quota.
+
+## 2026-11-26 — Coaching update after SKS 2v2 and individual work
+### Evidence
+- Against opponents approximately 204 cm and 185 cm, user reports regularly beating the first defender near the three-point line with crossover or a rightward step/hesitation-pump-fake into a quick drive.
+- Close finishing in 2v2: 4/5 (two regular layups after beating defender, one right-side angle/body-position change with glass finish, one fully contested layup). Promising small sample, not a stable conversion rate.
+- 2v2 3PT: 0/3, with visibly/subjectively poor flat mechanics. Later 3PT practice 3/10 but still inconsistent. Technical diagnosis from user: poor ball/hand path into release, insufficient jump/leg contribution, flat arc.
+- FT after warm-up: 7/10. Stationary twin-cross confidence ~7/10 by self-rating; left hand still less dependable.
+- Simulated close contact/gather/one-foot finish 5/7 (no actual defender); reverse after jump-stop/pump fake/step-through 2/5; right-side 90-degree drive-spin toward middle-shot 3/5.
+- Eurostep: direction-change step remains too short.
+- Off-ball positioning felt reasonably good.
+### Interpretation
+- Positive development: first-defender separation and close finishing in the 2v2 sample, including one useful change-of-angle/body-position finish against size. Continue developing this without seeking collisions.
+- Next gap: convert the initial advantage into a clean finish or pass after reading the rim protector/help defender. Continue tracking whether the big is set, moving laterally, jumping, or supported by a second defender.
+- Do not infer robust improvement from 4/5 or 5/7; the 2v2 and solo drills differ from full 5v5 and controlled defensive testing.
+- Three-point priority rises as a technical issue, not as a volume/percentage target. Flat, inconsistent mechanics indicate that range currently exceeds repeatable shooting form on some attempts. Rebuild from close range, establish a natural arc and consistent release, then step back gradually. Stop a set or move closer if form breaks down. Do not force an exaggerated jump or a rigid elbow angle.
+- Eurostep: train a longer but controlled second directional step and maintain balance; do not overstride. Reverse is currently less reliable and remains secondary.
+### Updated priorities for the next block
+1. Rebuild repeatable shooting mechanics and arc from close range, then progressive distance; avoid high-volume 3PT attempts with broken form.
+2. Maintain drive separation and improve read/finish against the rim protector: angle change, balanced gather, protected release, inside hand/high glass and pass when help commits.
+3. Improve eurostep directional step length and balance.
+4. Continue left-hand dribbling and finishing, especially under movement.
+5. Keep reverse and spin as secondary counters; use only when the defender's position makes them appropriate.
+6. Maintain free throws and off-ball positioning; 7/10 FT is encouraging but requires repeated comparable sets.
+### Load and schedule
+- Count the 2v2 plus the additional shooting, handle and finishing work as one combined training load.
+- For the planned Nov 27 individual slot, do not add another hard full session automatically. If recovered, use a short 30–40 minute low-fatigue technique session: close-range form shooting and arc, a small number of controlled midrange shots, a few left-hand and eurostep technique repetitions; omit hard jumping/contact and stop 3PT work if mechanics flatten. If tired or sore, recover instead.
+- Keep the Dec 6 match taper in mind. Training quality and recovery are more important than accumulating extra repetitions.
