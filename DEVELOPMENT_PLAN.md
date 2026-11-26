@@ -20,7 +20,7 @@ Priority areas currently hypothesized from initial data:
 - Store coaching interpretations, hypotheses, and decisions in COACH_NOTES.
 - Keep the profile and current plan updated as evidence changes.
 - Review priorities periodically, and after games when available.
-- Record game stats/context where possible: minutes, points, field goals by type, FT, turnovers, assists, rebounds, defensive matchups/events, role, game result and observations. Do not invent missing stats.
+- Record game stats/context where possible: minutes, points, field goals by type, FT, turnovers, assists, rebounds, defensive observations, role, game result and observations. Do not invent missing stats.
 
 ## Athlete reporting
 For individual sessions: exercises, attempt/make numbers, effort (rough RPE if comfortable), fatigue, what felt/failed and any pain.
@@ -55,3 +55,24 @@ For games: minutes and stats if known; describe possessions or situations rather
 ### Review criteria
 - Reassess after at least 3–5 additional games where possible.
 - Compare turnovers per game and per minute, drive conversion with contest context, FT attempts/conversion, and decision quality. Do not use plus/minus alone as an individual performance measure.
+
+## Updated phase — Nov 26 evidence: shooting mechanics and finishing translation
+### New evidence
+- SKS 2v2 against approximately 204 cm and 185 cm opponents: 4/5 close finishes reported, including two standard layups after beating defender, one change-of-angle/body-position finish off glass, and one fully contested layup. Promising but tiny sample.
+- User reports beating first defender near the three-point line without major difficulty using crossover or rightward step/hesitation-pump-fake into quick drive.
+- 3PT: 0/3 in 2v2; later 3/10 in individual practice, but mechanics remained poor and trajectory flat. These samples do not establish true accuracy; technical breakdown is the key evidence.
+- FT 7/10 after warm-up; one small sample only.
+- Stationary twin-cross self-rated 7/10; left hand remains a development need.
+- Simulated close contact/gather finish 5/7; reverse after jump-stop/pump fake/step-through 2/5; right-side 90-degree drive-spin-shot 3/5. These were solo/simulated drills and may not transfer directly to live defense.
+- Eurostep's directional step is too short according to the athlete.
+### Current priority order
+1. **Shooting mechanics and arc:** rebuild from a close, comfortable distance with repeatable hand/forearm alignment, natural extension, wrist/finger follow-through and balanced leg contribution. Establish a consistent arc before increasing range. No rigid 90-degree elbow requirement and no forced jump.
+2. **Drive-to-finish decision under size/help:** preserve the positive first-step separation, then read the rim protector and help. Use a changed angle, balanced gather, protected/inside-hand finish or high glass when space exists; pass/reset if help closes the lane.
+3. **Eurostep mechanics:** longer but controlled directional step, maintain balance and avoid overstriding.
+4. **Left-hand dribble and finishing:** maintain control while moving and keep eyes up.
+5. **Secondary counters:** reverse and spin remain useful but lower priority until reliable; do not force them against a set defender.
+6. **Free throws and off-ball movement:** maintain both; repeat FT sets under consistent conditions to verify trend.
+### Immediate next session guidance (Nov 27)
+- Because Nov 26 included 2v2 plus additional shooting, handle and finishing work, count it as one substantial combined session.
+- If fully recovered, cap the next individual session at about 30–40 minutes, low fatigue: close-range form shooting/arc (main focus), limited midrange progression only while form holds, a few controlled left-hand and eurostep technique reps. No hard contact or high-volume jumping. Stop/reduce distance when the shot becomes flat.
+- If tired, sore or experiencing pain, skip the individual session and recover. Avoid accumulating workload ahead of the Dec 6 match.
