@@ -107,3 +107,14 @@ Competition: DALK Junior U17 2026/27; team: UKS Szóstka Wrocław; position: PG 
 - Turnover attribution is athlete-reported and broad ("contact"); future logs should separate strips, gather/contact losses, balance losses, passes, travels/offensive fouls and other causes when known.
 - +/- is strongly affected by team lineups and game context; do not interpret as an individual skill rating.
 - Keep these official game figures separate from practice drill percentages above.
+
+
+### 2026-11-27 — Finishing and live-play observations
+- Mikan drill: 14/15 (93.3%).
+- Reverse Mikan drill: 8/15 (53.3%); misses mainly described as low release/low backboard contact or overshooting.
+- Left-wing rip into direct layup: 4/5 (80%); user reports occasional insecure/poor gather and sometimes picking the ball up with one hand rather than securing it with both.
+- Left-wing rip into spin finish: 4/5 (80%) in the drill; spin itself described as slow, low and not fluid. The result should not be treated as evidence of a game-ready spin.
+- 5v5 after drills, against weaker opponents, with a same-height but stronger/heavier primary rim matchup: eurostep attempted; one reasonably good execution. Spin judged clean/successful in approximately 1/3 attempts by user. Step-through also attempted; overall finishing conversion described as poor, but total attempts/makes were not tracked.
+- Live-play ball security: ball slipped from hands about twice; user suspects small hand size contributes. Cause is unverified; record as a ball-security observation, not a confirmed anatomical limitation.
+- Other live-play observations: approximately 3 rebounds; user reports comfortably beating one defender and receiving positive feedback about explosiveness/quickness.
+- Interpretation: practice drill percentages and untracked 5v5 finishing are different evidence types; do not compare them directly or infer a stable game finishing percentage.
