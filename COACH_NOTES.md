@@ -121,3 +121,28 @@ This is a dated decision log of coaching observations, hypotheses, priorities an
 - Count the 2v2 plus the additional shooting, handle and finishing work as one combined training load.
 - For the planned Nov 27 individual slot, do not add another hard full session automatically. If recovered, use a short 30–40 minute low-fatigue technique session: close-range form shooting and arc, a small number of controlled midrange shots, a few left-hand and eurostep technique repetitions; omit hard jumping/contact and stop 3PT work if mechanics flatten. If tired or sore, recover instead.
 - Keep the Dec 6 match taper in mind. Training quality and recovery are more important than accumulating extra repetitions.
+
+
+## 2026-11-27 — Finishing session and 5v5 transfer review
+### Evidence
+- Mikan: 14/15; Reverse Mikan: 8/15. Reverse misses were commonly low off the backboard or overhit; user identified insufficient takeoff/release height and inconsistent touch.
+- Left-wing rip to direct layup: 4/5; pace was good, but gather was occasionally insecure and the user sometimes lifted the ball with one hand instead of securing it with both.
+- Left-wing rip to spin: 4/5 in a drill, but user describes spin as slow, low and not fluid, with insufficient/low takeoff after the rotation.
+- In subsequent 5v5 against weaker opponents, the primary rim matchup was similar height but substantially stronger/heavier. User tried eurostep, spin and step-through. One eurostep was reasonably good; spin felt clean in roughly 1/3 attempts. Overall live finishing remained poor, although no total attempt count was tracked.
+- Ball slipped from the user's hands around twice. User suspects relatively small hands contribute. This is a hypothesis, not a confirmed cause; technique, gather timing, hand/finger control, ball surface/moisture and contact may all contribute.
+- Approximately 3 rebounds; user reports beating one defender without much difficulty. An observer described the user as explosive and quick and saw potential in the moves once refined.
+### Interpretation
+- Current pattern is clearer: creating initial separation and first-step explosiveness are promising strengths; the next bottleneck is securing the ball through the gather, maintaining balance/protection under pressure, and converting the advantage into a controlled finish.
+- The gap between drill results (e.g. 4/5) and live 5v5 finishing is important. A rehearsed move is not yet a reliable game skill until it works at game speed against a defender who can recover, contest or make contact.
+- Do not attribute ball losses solely to hand size or prescribe trying to palm the ball. Train a secure gather: bring the ball into the body, use two hands when the situation allows, move it to the far side before takeoff, keep fingers spread and wrist firm, and avoid exposing it during the gather. Do not squeeze excessively or carry the ball illegally.
+- Reverse Mikan result indicates a specific touch/release-height weakness, but the drill should be used for controlled technique rather than repeated maximal jumps. Aim for a higher controlled release and a consistent target on the backboard; do not simply throw harder.
+- Spin is currently a secondary counter. Its drill percentage masks the reported slow/low mechanics. Improve foot plant, hip/shoulder rotation, ball security and acceleration out of the turn before using it frequently in games.
+### Updated priorities
+1. **Secure gather and ball protection:** gather cleanly, keep the ball close and on the far side, maintain balance through legal contact.
+2. **Live finishing transfer:** progress from clean reps to light contest, then realistic defender recovery; track attempts/makes and contest context.
+3. **Layup touch and release height:** especially reverse finishes; improve arc and backboard target with controlled technique.
+4. **Finish selection after separation:** if the defender recovers or a stronger rim protector is set, change angle/release point, use a controlled two-foot stop/fake/step-through only when space opens, or pass/reset rather than forcing contact.
+5. **Spin refinement:** retain as a secondary move until it is quicker, balanced and reliably connected to the finish.
+6. Maintain first-step separation, explosiveness and rebounding as strengths; do not add large amounts of jump volume to chase height.
+### Workload note
+- The approximately one-hour skill session plus subsequent 5v5 is one substantial combined load. No fatigue/pain report was supplied. Prioritize recovery and avoid adding extra hard finishing or jumping work immediately afterward, especially with the Dec 6 match approaching.
