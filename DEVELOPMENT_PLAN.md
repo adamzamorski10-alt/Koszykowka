@@ -76,3 +76,21 @@ For games: minutes and stats if known; describe possessions or situations rather
 - Because Nov 26 included 2v2 plus additional shooting, handle and finishing work, count it as one substantial combined session.
 - If fully recovered, cap the next individual session at about 30–40 minutes, low fatigue: close-range form shooting/arc (main focus), limited midrange progression only while form holds, a few controlled left-hand and eurostep technique reps. No hard contact or high-volume jumping. Stop/reduce distance when the shot becomes flat.
 - If tired, sore or experiencing pain, skip the individual session and recover. Avoid accumulating workload ahead of the Dec 6 match.
+
+
+## Updated phase — Nov 27 evidence: ball security and live finishing transfer
+### New evidence
+- Individual session: Mikan 14/15; Reverse Mikan 8/15; left-wing rip to direct layup 4/5; left-wing rip to spin 4/5. These are small, controlled drill samples.
+- Reverse Mikan errors were commonly low releases/low backboard contact or overshooting. Rip-to-layup gather was sometimes insecure; user sometimes lifted the ball one-handed rather than securing it with both.
+- In subsequent 5v5 against weaker opponents, a same-height but substantially stronger/heavier defender guarded the rim. User tried eurostep, spin and step-through; one eurostep was reasonably good, spin felt clean in about 1/3 attempts, and overall live finishing remained poor. Total attempts/makes were not tracked.
+- Ball slipped from the user's hands about twice. User suspects small hands contribute, but the cause is unconfirmed; treat this as a ball-security skill issue to investigate, not a fixed physical limitation.
+- Approximately 3 rebounds; user reports beating one defender comfortably and receiving positive feedback about explosiveness/quickness.
+### Updated priority order
+1. **Secure gather / ball security under pressure:** clean two-hand gather when appropriate, bring ball close, protect on far side, avoid exposing it during takeoff; develop control through legal contact.
+2. **Game-speed finishing transfer:** progress from clean drills to controlled contest and defender recovery; track actual live attempts and contest/help context.
+3. **Touch and release height:** especially reverse layups; use consistent backboard targets and controlled arc rather than simply jumping or throwing harder.
+4. **Post-separation decisions:** retain the ability to beat the first defender, then choose finish angle/release, two-foot stop/fake/step-through, pass or reset based on the rim defender.
+5. **Spin as secondary counter:** refine foot plant, rotation, balance and acceleration before relying on it in games.
+6. Maintain first-step explosiveness, rebounding and left-hand finishing; avoid unnecessary high-volume jumping.
+### Workload
+- Nov 27's approximately one-hour individual session plus 5v5 counts as one substantial combined load. No pain/fatigue details were provided. Allow recovery; do not add extra hard finishing or jump volume immediately, particularly during the Dec 6 match preparation block.
